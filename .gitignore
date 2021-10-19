@@ -1,0 +1,24 @@
+# Ignore everything
+/*
+
+# But not these files...
+!.gitignore
+!1.\ variables.ipynb
+!2a.\ exercise-python-conditions.ipynb
+!5a.\ exercise-functions.ipynb
+!9.\ geopandas.ipynb
+!10.\ datavisualisation-1.ipynb
+!3.\ for-loops.ipynb
+!6.\ modules.ipynb
+!11.\ datavisualisation-2.ipynb
+!3a.\ exercise-for-loops.ipynb
+!7.\ numpy.ipynb
+!12.\ Data visualisation with plotly.ipynb
+!4.\ more-loops.ipynb
+!7a.\ exercise-numpy.ipynb
+!1a.\ exercise-variable-fun.ipynb
+!4a.\ exercise-more-loops.ipynb
+!8.\ pandas.ipynb
+!2.\ python-conditions.ipynb
+!5.\ functions.ipynb
+!8a.\ stu-exercise-pandas.ipynb
