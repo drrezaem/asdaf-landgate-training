@@ -3,10 +3,10 @@
 
 # But not these files...
 !.gitignore
-!answers/1a.\ variable-fun.ipynb
-!answers/2a.\ terms-and-conditions.ipynb
-!answers/3.\ loops.ipynb
-!answers/4.\ more-loops.ipynb
-!answers/5.\ fun-functions.ipynb
-!answers/7a.\ exercise-numpy.ipynb
-!answers/8a.\ exercise-pandas.ipynb
+!1a.\ variable-fun.ipynb
+!2a.\ terms-and-conditions.ipynb
+!3.\ loops.ipynb
+!4.\ more-loops.ipynb
+!5.\ fun-functions.ipynb
+!7a.\ exercise-numpy.ipynb
+!8a.\ exercise-pandas.ipynb
